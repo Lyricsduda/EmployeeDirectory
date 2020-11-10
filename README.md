@@ -12,16 +12,14 @@ This is a employee directory applicaion for a employer that wishes to view my en
 ## Table of Contents
 
 * [Installation](#installation)
+         
+* [License](#license)
 
-* [Usage](#usage)
-         
- * [License](#license)
+* [Deployment](#deployment)
+
+* [Screenshot](#screenshot)
         
-* [Contributing](#contributing)
-         
- * [Tests](#tests) 
-         
-* [Questions](#questions) 
+* [Works](#works) 
 
 ## Installation
 
@@ -29,26 +27,17 @@ To install necessary dependencies, run the following command:
 
 > NPM I
 
-## Usage
-
-
-
 ## License
 
 This project is under the MIT license.
 
-## Contributing
+## Deployment
         
-> 
 
-## Tests
+## Screenshot
 
-To run test's, run the following command:
 
-> NPM test
-
-## Questions
+## Works
         
-If you have any questions about the repo, open an issue or contact me directly at . You can find more
-of my work at [Lyricsduda](https://github.com/Lyricsduda).
+You can find more of my work at [Lyricsduda](https://github.com/Lyricsduda).
         
