@@ -25,7 +25,7 @@ This is a employee directory applicaion for a employer that wishes to view my en
 
 To install necessary dependencies, run the following command:
 
-> NPM I
+> npm i
 
 ## License
 
@@ -36,6 +36,7 @@ This project is under the MIT license.
 
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/70404735/98624987-db295280-22dc-11eb-8a45-b3d650a5ae61.png)
 
 ## Works
         
